@@ -35,6 +35,16 @@ Este es un simple conversor de monedas desarrollado en Java. Permite al usuario 
 
 5.  **El resultado de la conversión se mostrará en la consola.**
 
+## Menu de interaccion:
+
+### Seleccion de operacion
+
+![Captura de pantalla 2025-04-29 093717.png](images/Captura%20de%20pantalla%202025-04-29%20093717.png)
+
+### Ingreso de divisas para el cambio 
+
+![ingreso divisas.png](images/ingreso%20divisas.png)
+
 ## Tecnologías utilizadas
 
 * Java
@@ -46,13 +56,12 @@ Este es un simple conversor de monedas desarrollado en Java. Permite al usuario 
 
 * Permitir al usuario ingresar códigos de moneda personalizados.
 * Mostrar más información sobre la conversión (por ejemplo, la tasa de cambio utilizada).
-* Implementar una interfaz gráfica de usuario (GUI).
-* Manejar errores de conexión a la API de forma más robusta.
+.
 
 ## Autor
 
-[Tu Nombre] ([Tu Perfil de GitHub/Otro])
+Camilo E Giraldo.
 
-## Licencia (Opcional)
+Perfil Gthub: https://github.com/CamiloGDZ
 
-[Tipo de Licencia, por ejemplo, MIT]
+
