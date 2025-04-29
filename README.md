@@ -39,11 +39,10 @@ Este es un simple conversor de monedas desarrollado en Java. Permite al usuario 
 
 ### Seleccion de operacion
 
-![Captura de pantalla 2025-04-29 093717.png](images/Captura%20de%20pantalla%202025-04-29%20093717.png)
-
+![Seleccion de operacion](images/ingresodivisas.png)
 ### Ingreso de divisas para el cambio 
 
-![ingreso divisas.png](images/ingreso%20divisas.png)
+![ingreso divisas.png](images/ingresodivisas.png)
 
 ## Tecnologías utilizadas
 
