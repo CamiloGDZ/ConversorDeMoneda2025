@@ -52,11 +52,6 @@ Este es un simple conversor de monedas desarrollado en Java. Permite al usuario 
 * Java HTTP Client (para las peticiones a la API)
 * [ExchangeRate-API](https://www.exchangerate-api.com/) (como fuente de las tasas de cambio)
 
-## Próximas mejoras (Opcional)
-
-* Permitir al usuario ingresar códigos de moneda personalizados.
-* Mostrar más información sobre la conversión (por ejemplo, la tasa de cambio utilizada).
-
 
 ## Autor
 
