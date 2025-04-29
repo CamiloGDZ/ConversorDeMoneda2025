@@ -56,7 +56,7 @@ Este es un simple conversor de monedas desarrollado en Java. Permite al usuario 
 
 * Permitir al usuario ingresar códigos de moneda personalizados.
 * Mostrar más información sobre la conversión (por ejemplo, la tasa de cambio utilizada).
-.
+
 
 ## Autor
 
